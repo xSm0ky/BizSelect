@@ -1,6 +1,6 @@
 [
   {
-    "name": "M\u00fcller GmbH",
+    "name": "Müller GmbH",
     "typ": "GmbH",
     "region": "NRW",
     "branche": "Bau",
@@ -25,5 +25,68 @@
     "umsatz": 120000,
     "mitarbeiter": 5,
     "gruendung": 2015
+  },
+  {
+    "name": "Alpha Solutions AG",
+    "typ": "AG",
+    "region": "Hamburg",
+    "branche": "Beratung",
+    "umsatz": 3100000,
+    "mitarbeiter": 48,
+    "gruendung": 2010
+  },
+  {
+    "name": "Bergmann & Sohn",
+    "typ": "GmbH",
+    "region": "NRW",
+    "branche": "Handwerk",
+    "umsatz": 960000,
+    "mitarbeiter": 12,
+    "gruendung": 1998
+  },
+  {
+    "name": "EcoTrade UG",
+    "typ": "UG",
+    "region": "Berlin",
+    "branche": "Handel",
+    "umsatz": 180000,
+    "mitarbeiter": 7,
+    "gruendung": 2020
+  },
+  {
+    "name": "Logistik24 GmbH",
+    "typ": "GmbH",
+    "region": "Hessen",
+    "branche": "Logistik",
+    "umsatz": 7800000,
+    "mitarbeiter": 90,
+    "gruendung": 2003
+  },
+  {
+    "name": "NovaTech AG",
+    "typ": "AG",
+    "region": "Baden-Württemberg",
+    "branche": "IT",
+    "umsatz": 15600000,
+    "mitarbeiter": 250,
+    "gruendung": 1990
+  },
+  {
+    "name": "Pflegeplus GmbH",
+    "typ": "GmbH",
+    "region": "Sachsen",
+    "branche": "Gesundheit",
+    "umsatz": 2300000,
+    "mitarbeiter": 60,
+    "gruendung": 2007
+  },
+  {
+    "name": "Stahl & Co.",
+    "typ": "Einzelunternehmen",
+    "region": "NRW",
+    "branche": "Metallverarbeitung",
+    "umsatz": 490000,
+    "mitarbeiter": 14,
+    "gruendung": 1985
   }
 ]
