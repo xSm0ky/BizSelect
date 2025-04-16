@@ -1,0 +1,29 @@
+[
+  {
+    "name": "M\u00fcller GmbH",
+    "typ": "GmbH",
+    "region": "NRW",
+    "branche": "Bau",
+    "umsatz": 4200000,
+    "mitarbeiter": 35,
+    "gruendung": 2001
+  },
+  {
+    "name": "Schmidt AG",
+    "typ": "AG",
+    "region": "Bayern",
+    "branche": "IT",
+    "umsatz": 8700000,
+    "mitarbeiter": 120,
+    "gruendung": 1995
+  },
+  {
+    "name": "Klein & Partner",
+    "typ": "Einzelunternehmen",
+    "region": "Berlin",
+    "branche": "Dienstleistung",
+    "umsatz": 120000,
+    "mitarbeiter": 5,
+    "gruendung": 2015
+  }
+]
