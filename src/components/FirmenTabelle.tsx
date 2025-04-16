@@ -35,10 +35,11 @@ const FirmenTabelle: React.FC = () => {
     const [sortOrder, setSortOrder] = useState<"asc" | "desc">("asc");
 
     useEffect(() => {
-        axios.get<Firma[]>("http://localhost:8000/firmen").then(res => {
-            setDaten(res.data);
-        });
+      fetch("/demo_firmen.json")
+        .then((res) => res.json())
+        .then((data) => setDaten(data));
     }, []);
+
 
     const firmentypen = Array.from(new Set(daten.map(f => f.typ)));
     const regionen = Array.from(new Set(daten.map(f => f.region)));
